@@ -1,1 +1,1 @@
-property "matrix2"
+property "IHG"
